@@ -1,6 +1,6 @@
-# Fastag Bajaj Razorpay Backend
+# TMsquare Razorpay Backend
 
-A Node.js Express backend for handling Razorpay payment gateway integration for the Fastag Bajaj mobile application.
+A Node.js Express backend for handling Razorpay payment gateway integration for the TMsquare mobile application.
 
 ## Features
 
